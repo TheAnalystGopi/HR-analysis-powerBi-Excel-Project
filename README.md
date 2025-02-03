@@ -1,1 +1,1 @@
-# HR-analysis-powerBi-Excel-Project
+# HR-Analysis-PowerBi-Excel-Project
